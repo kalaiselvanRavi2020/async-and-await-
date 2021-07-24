@@ -1,0 +1,66 @@
+ 
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(18, 129, 209);
+    
+}
+.country-name{
+    margin: 0;
+    text-align: center;
+    padding: 3%;
+    font-weight: 300;
+    background-color: rgb(54, 54, 54);
+    color: #FFF ;
+    
+}
+.body-background{
+    background: rgb(237,223,168);
+    background: linear-gradient(90deg, rgb(236, 221, 161) 0%, rgb(117, 117, 106) 100%, rgb(218, 171, 19) 100%, rgb(181, 222, 226) 123%);
+    text-align: center;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+img{
+    width: 15rem;
+    height: 10rem;
+}
+ul{
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+}
+.hidden{
+    visibility: hidden;
+    color: rgb(75, 75, 155);
+}
+.border{
+    border: 0;
+    padding: 0;
+    margin: 15px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+#button:hover{
+    background-color:rgb(237,223,168);
+}
+.navbar p{
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 2rem;
+    font-style: italic;
+
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+#container{
+    background-color: #22404B;
+}

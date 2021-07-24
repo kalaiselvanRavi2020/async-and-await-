@@ -1,4 +1,4 @@
-let resturi=fetch("http://restcountries.eu/rest/v2/all");
+let resturi=fetch("https://restcountries.eu/rest/v2/all");
 let apikey="5b996480ee4cdf815ae66267c16431ec"
 
 let urlstring=`https://api.openweathermap.org/data/2.5/weather?lat=`;
